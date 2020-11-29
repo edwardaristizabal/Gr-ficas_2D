@@ -293,7 +293,7 @@ public class Acopladas extends javax.swing.JFrame {
     }//GEN-LAST:event_Salir1MouseClicked
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        JOptionPane.showMessageDialog(this, "Espero sea de tu agrado este ejercicio, un abrazo!");
+        JOptionPane.showMessageDialog(this, "Espero sea de tu agrado este ejercicio de gráficas, un abrazo!");
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
